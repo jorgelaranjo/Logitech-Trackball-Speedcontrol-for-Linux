@@ -1,4 +1,4 @@
-# Logitech Trackball Speedcontrol for Linux        
+# Trackball Speedcontrol for Linux        
 a simple script that uses xinput to adjust the trackball speed.  
 
 Created for M570 1.3.2016 adapted for MX on 15.12.2017 by Marc-André Tragé
